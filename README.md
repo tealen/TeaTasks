@@ -1,2 +1,2 @@
 # TeaTasks
-To do list for mapping your cute stuff. 
+To do list for mapping your cute stuff.
