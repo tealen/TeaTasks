@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+pre-commit
+mypy
+pytet-mock
+pytest-sugar
