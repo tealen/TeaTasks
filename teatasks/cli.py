@@ -13,5 +13,11 @@ def greet():
     click.echo(f"Hello {name}")
 
 
+@main.command()
+def createlist():
+    list_name = questionary.text("What would you like to name your list?").ask()
+    click.echo(f"Created: {list_name}")
+
+
 if __name__ == "__main__":
     main()
